@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_851424_iplookup_ipaddressinfo</description>
+        <name>x_851424_iplookup_ipaddressinfo</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-30 08:05:10</sys_created_on>
+        <sys_id>b32afe3a4725111088cc9a62736d43b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_851424_iplookup_ipaddressinfo</sys_name>
+        <sys_package display_value=" IPLookup" source="x_851424_iplookup">02f34ea647a5111088cc9a62736d4320</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" IPLookup">02f34ea647a5111088cc9a62736d4320</sys_scope>
+        <sys_update_name>sys_security_acl_b32afe3a4725111088cc9a62736d43b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-30 08:05:10</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
